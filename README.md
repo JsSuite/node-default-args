@@ -1,5 +1,5 @@
 # NodeJS Default Argument🍏
-This is a technical exercise on NodeJS
+This is a technical practice to write a default argument function.
 
 ### About ℹ️
 
