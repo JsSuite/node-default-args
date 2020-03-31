@@ -1,7 +1,7 @@
 {
   "name": "node-default-args",
   "version": "1.0.0",
-  "description": "NodeJS Default Arguments",
+  "description": "NodeJS technical practice - Default Arguments",
   "main": "index.js",
   "scripts": {
     "test": "jest"
