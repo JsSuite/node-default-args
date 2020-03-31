@@ -14,20 +14,18 @@ containing default values for that function's arguments, and returns another fun
 ### How to setup ⚙️
 
 ``
-$ git clone
-``
-``
-$ npm install
+    $ git clone
+    $ npm install
 ``
 
 ### How to run normally 🏃‍♂️
 
 ``
-$ npm run start
+    $ npm run start
 ``
 
 ### How to test 🧪
 
 ``
-$ npm run test
+    $ npm run test
 ``
