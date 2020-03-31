@@ -6,10 +6,6 @@
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/m3yevn/node-default-args.git"
-  },
   "keywords": [
     "nodejs",
     "default",
@@ -17,10 +13,6 @@
   ],
   "author": "m3yevn (Kevin Moe Myint Myat)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/m3yevn/node-default-args/issues"
-  },
-  "homepage": "https://github.com/m3yevn/node-default-args#readme",
   "devDependencies": {
     "jest": "^25.2.4"
   }
