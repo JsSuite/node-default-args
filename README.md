@@ -15,6 +15,8 @@ containing default values for that function's arguments, and returns another fun
 
 ``
 $ git clone
+``
+``
 $ npm install
 ``
 
