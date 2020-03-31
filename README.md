@@ -1,9 +1,10 @@
-# NodeJS Technical Tasks from Splyt 🍏
-This is a technical task from Splyt on NodeJS
+# NodeJS Default Argument🍏
+This is a technical exercise on NodeJS
 
 ### About ℹ️
 
-This is about creating a function which default arguments by using an object in paramater
+Writing a function defaultArguments . It takes a function as an argument, along with an object
+containing default values for that function's arguments, and returns another function which defaults to the right values.
 
 ### Tech Stack 📚
 
