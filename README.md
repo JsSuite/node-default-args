@@ -13,10 +13,10 @@ containing default values for that function's arguments, and returns another fun
 
 ### How to setup ⚙️
 
-``
+```sh
     $ git clone
     $ npm install
-``
+```
 
 ### How to run normally 🏃‍♂️
 
